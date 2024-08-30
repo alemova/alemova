@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi it's Alex 👋
+
+#### Software Development Engineer ||  Freelancer
 
 <!--
 **alemova/alemova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
