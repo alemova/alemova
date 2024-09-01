@@ -17,13 +17,6 @@
     <li>Flutter</li>
 </ul>
 
-<h2> I'm currently working on </h2>
-<ul>
-    <li>English</li>
-    <li>Italian</li>
-    <li>Docker</li>
-    <li>Flutter</li>
-</ul>
 
 <!--
 **alemova/alemova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
