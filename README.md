@@ -1,6 +1,6 @@
 ## Hi it's Alex 👋
 
-#### Software Development Engineer ||  Freelancer
+#### Software Development Engineer ||  Back-end Developer || Tester QA 
 
 <h2> About me </h2>
 <ul>
