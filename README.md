@@ -1,5 +1,8 @@
-## Hi it's Alex 👋
 
+<h2 align="center">
+Hi it's Alex <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fd/512.gif" alt="✌" width="32" height="32"> 
+</h2>
+    
 #### Software Development Engineer ||  Back-end Developer || Tester QA 
 
 <h2> About me </h2>
