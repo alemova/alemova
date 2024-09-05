@@ -1,6 +1,6 @@
 
 <h2 align="center">
-Hi it's Alex <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fd/512.gif" alt="✌" width="32" height="32"> 
+Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fd/512.gif" alt="✌" width="32" height="32"> I'm Alejandro Morales
 </h2>
     
 #### Software Development Engineer ||  Back-end Developer || Tester QA 
