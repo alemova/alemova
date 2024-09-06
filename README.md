@@ -12,7 +12,7 @@ Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fd/512.gif" 
     <li>Experience working as project support and tester</li>
 </ul>
 
-<h2> I'm currently learning </h2>
+<h2> 🌱 I'm currently learning </h2>
 <ul>
     <li>English</li>
     <li>Italian</li>
