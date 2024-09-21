@@ -5,14 +5,14 @@ Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fd/512.gif" 
     
 #### Software Development Engineer ||  Back-end Developer || Tester QA 
 
-<h2> About me </h2>
+<h2> About me 😁✌️ </h2>
 <ul>
     <li>Mexican</li>
     <li>22 years</li>
     <li>Experience working as project support and tester</li>
 </ul>
 
-<h2> 🌱 I'm currently learning </h2>
+<h2>  I'm currently learning 🌱 </h2>
 <ul>
     <li>English</li>
     <li>Italian</li>
@@ -21,7 +21,7 @@ Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fd/512.gif" 
 </ul>
 
 
-<h2> 🛠️ Technologies and Tools I use: </h2>
+<h2> Technologies 🛠️ </h2>
 
 <div align="center">
     <p>
